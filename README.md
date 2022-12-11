@@ -10,21 +10,21 @@
 ---
 <h2 id="conteudos">Conteúdos</h2>
 
-#### Graph and its representations
+#### :fast_forward: Graph and its representations
 
-#### BFS and DFS
+#### :fast_forward: BFS and DFS
 
-#### Applications of BFS and DFS
+#### :fast_forward: Applications of BFS and DFS
 
-#### Adjacency Matrix
+#### :fast_forward: Adjacency Matrix
 
-#### Eulerian Path
+#### :fast_forward: Eulerian Path
 
-#### Floyd-Warshall
+#### :fast_forward: Floyd-Warshall
 
-#### Dijkstra
+#### :fast_forward: Dijkstra
 
-#### Minimum Spanning Tree
+#### :fast_forward: Minimum Spanning Tree
 
-#### Topological Sort
+#### :fast_forward: Topological Sort
 <hr>
